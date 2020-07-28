@@ -2,7 +2,7 @@
 
 ODECME: Ordinary Differential Equation and Complex Matrix Exponential for Multi-resolution Image Registration
 
-Arxiv link: 
+Arxiv link: https://arxiv.org/abs/2007.13683
 
 This repository has two notebooks. Running them is as simple as opening them in Colab and uploading the files you want as the fixed and the moving images/volumes.
 
